@@ -143,8 +143,6 @@ const Collection = () => {
                 "makeup",
                 "haircare",
                 "body",
-                "appliance",
-                "accessories",
               ].map((type) => (
                 <label key={type} className="flex gap-2 capitalize">
                   <input
